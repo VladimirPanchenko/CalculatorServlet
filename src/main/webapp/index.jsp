@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=../main"
+    <title>Добро пожаловать</title>
+</head>
+<body>
+</body>
+</html>
